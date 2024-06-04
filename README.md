@@ -1,11 +1,19 @@
 SimpleQueryGeocoder [10]: 2.68 s
+
 SimpleTreeGeocoder [10]: 4.0 ms
+
 MemorizedTreeGeocoder [10]: 4.0 ms
+
 SimpleTreeGeocoder [1000]: 100.08 ms
+
 MemorizedTreeGeocoder [1000]: 3.0 ms
+
 SimpleTreeGeocoder [10000]: 954.87 ms
+
 MemorizedTreeGeocoder [10000]: 7.01 ms
+
 MemorizedTreeGeocoder [None]: 43.04 ms
+
 Вот такие результаты получились при запуске main.py
 
 Сравнивая производительность этих трех алгоритмов можно сделать вывод:
